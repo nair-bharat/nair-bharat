@@ -1,5 +1,8 @@
 ### Hi there, I'm Bharat Nair 👋
 
+- 🔭 I’m currently working as a Data Engineer.
+- 🌱 I’m currently learning Full Stack Development. My areas of interest include - Full Stack, Cloud and DevOps.
+
 <!--
 **nair-bharat/nair-bharat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
