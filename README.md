@@ -1,7 +1,8 @@
 ### Hi there, I'm Bharat Nair 👋
 
 - I’m working as a Software Engineer.
-- I’m currently learning JavaScript, MongoDB and AWS. My areas of interest include - Full Stack, Cloud and DevOps.
+- I’m currently learning JavaScript, MongoDB and AWS. 
+- My areas of interest include - Full Stack, Cloud and DevOps.
 
 <!--
 **nair-bharat/nair-bharat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
