@@ -3,6 +3,7 @@
 - I’m working as a Software Engineer.
 - I’m currently learning JavaScript, MongoDB and AWS. 
 - My areas of interest include - Full Stack, Cloud and DevOps.
+- Apart from that I have decent knowledge in core CSE subjects studied in my undergrad.
 
 <!--
 **nair-bharat/nair-bharat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
