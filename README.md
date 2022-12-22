@@ -1,7 +1,7 @@
 ### Hi there, I'm Bharat Nair 👋
 
 - I’m working as a Software Engineer.
-- I’m currently learning JavaScript, MongoDB and AWS. 
+- I’m currently learning JavaScript, MongoDB and NodeJS. 
 - My areas of interest include - Full Stack, Cloud and DevOps.
 - Apart from that I have decent knowledge in core CSE subjects studied in my undergrad.
 
