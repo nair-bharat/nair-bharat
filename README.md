@@ -1,9 +1,12 @@
 <h1 align="center">Hello everyone, 👋  I'm Bharat Nair</h1>
-<h4 align="center">✨ I am striving hard to improve myself and be better than the previous day</h4>
-<h4 align="center">🌱 I’m currently learning React, MongoDB and Node</h4>
-<h4 align="center">👯 I’m looking to collaborate and learn new things</h4>
+<h4 align="center">✨ Striving hard to improve myself and be better than previous day</h4>
 
 - 🔭 I’m currently working as a **Software Engineer**  
+
+- 🌱 I’m learning React, MongoDB and Node
+
+- 👯 I’m looking to collaborate and learn new things
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/nair-bharat](https://github.com/nair-bharat)
 
@@ -26,5 +29,5 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a> 
 
 <hr/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=nair-bharat&show_icons=true&locale=en" alt="nair-bharat" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=nair-bharat&show_icons=true&locale=en" alt="nair-bharat" /> -->
 
