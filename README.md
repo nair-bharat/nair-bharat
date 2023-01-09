@@ -1,5 +1,5 @@
 <h1 align="center">Hello everyone, 👋  I'm Bharat Nair</h1>
-<h4 align="center">✨ Striving hard to improve myself and be better than previous day</h4>
+<h4 align="center">✨ Striving hard to improve myself and be better than yesterday</h4>
 
 - 🔭 I’m currently working as a **Software Engineer**  
 
