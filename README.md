@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a **Software Engineer**  
 
-- 🌱 I’m learning React, MongoDB and Node
+- 🌱 I’m learning Java, React.js
 
 - 👯 I’m looking to collaborate and learn new things
 
